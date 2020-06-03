@@ -1,0 +1,9 @@
+#header-wrapper {
+    width: 100vw;
+    height: 60px;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
