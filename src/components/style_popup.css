@@ -75,11 +75,19 @@
     /*background-color: #0F0C5A;*/
     color: #0F0C5A;
     font-family: Roboto;
-    font-size: 16px;
+    font-size: 14px;
     letter-spacing: 0;
-    line-height: 19px;
+    line-height: 16px;
     text-align: center;
-}
+    box-sizing: border-box;
+    border: 1px solid #0E0C5A;
+  }
+  .Button-play-secondary {
+    position:absolute;
+    transition: .5s ease;
+    top: 23%;
+    
+  }
 
   .button-cargar {
     border-radius: 5px;

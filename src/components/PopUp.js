@@ -93,7 +93,7 @@ export default class PopUp extends Component {
 
 			<div className = "body-popup">
 				<div className = "body-style"><h4>Cantidad de registros actuales: 71'000.000</h4></div> 
-				<button className = "Button-secondary">Ver</button>
+				<button className = "Button-secondary Button-play-secondary">Ver</button>
 				
 				<div> 
 					<input type="file" onChange={this.onFileChange} />
